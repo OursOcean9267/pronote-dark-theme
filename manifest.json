@@ -1,0 +1,18 @@
+{
+  "name": "Pronote Dark Theme",
+  "description": "Passe PRONOTE en DARK THEME (fini à 25%)",
+  "version": "0.2.2",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://*.index-education.net/pronote/*"],
+      "css": ["styles.css"]
+    }
+  ],
+  "icons": {
+    "16": "16logo.png",
+    "32": "32logo.png",
+    "48": "48logo.png",
+    "128": "128logo.png"
+  }
+}

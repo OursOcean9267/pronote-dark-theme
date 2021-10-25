@@ -1,0 +1,241 @@
+.ObjetBandeauEspace {
+    background-color: #46484d !important;
+}
+.ObjetBandeauEspace .ibe_centre .ibe_etab_util .ibe_etab {
+    color: white !important;
+}
+.ibe_util_texte {
+    color: white !important;
+}
+.dotty {
+    background-color: #46484d !important;
+    background-image: radial-gradient(circle, transparent, transparent), radial-gradient(circle, transparent, transparent) !important;
+}
+.menu-commandes {
+    background-color: #46484d  !important;
+}
+.objetBandeauEntete_secondmenu .objetBandeauEntete_fullsize {
+    background-color: #46484d  !important;
+}
+.objetBandeauEntete_secondmenu .objetBandeauEntete_fullsize .precedenteConnexion {
+    color: white  !important;
+}
+.objetBandeauEntete_secondmenu {
+    background-color: #46484D  !important;
+}
+.item-menu_niveau0 .label-menu_niveau0 {
+    color: white !important;
+}
+.item-menu_niveau0:hover, .item-menu_niveau0.focused-in, .item-menu_niveau0.item-selected {
+    background: gray !important;
+}
+.objetBandeauEntete_secondmenu .menu-principal_niveau1 .item-menu_niveau1.selected {
+    background-color: grey !important;
+}
+.objetBandeauEntete_secondmenu .menu-principal_niveau1 .item-menu_niveau1.selected {
+    color: white !important;
+}
+.objetBandeauEntete_secondmenu .menu-principal_niveau1 .item-menu_niveau1 {
+    color: white !important;
+}
+.Table {
+    background-color: #46484d !important;
+}
+.Espace {
+    color: white !important;
+}
+.CarteCompteZoneGenerique {
+    background-color: #999999 !important;
+}
+.ObjetListe.skin_flatDesign .fd_ligne .zone-principale h4:last-child {
+    color: white;
+}
+.objetbandeauentete_global.as-responsive h3.fil-ariane {
+    color: white !important;
+}
+.ObjetListe.background-selec .liste_celluleGrid.selected {
+    background-color: var(--theme-sombre-scaleMoins20) !important;
+}
+.objetbandeauentete_global .objetBandeauEntete_thirdmenu {
+    background-color: #46484d !important;
+}
+.InterfaceParametresUtilisateur {
+    background-color: #46484d !important;
+}
+.InterfaceParametresUtilisateur .pu_zone {
+    background-color: rgb(153, 153, 153) !important;
+}
+.deroulant-conteneur-show-hide .liste-as-options > li .as-li {
+    background-color: #999999 !important;
+}
+.Gras {
+    color: white !important;
+}
+.DAT_DocumentCadre {
+    background-color: #999999 !important;
+}
+.DAT_DocumentCadre {
+    color: #bb4511 !important;
+}
+.conteneur-CDT .conteneur-ressourcePeda {
+    background-color: #46484d !important;
+}
+.widget .filtre-conteneur {
+    background-color: rgba(70,72,77,0.70) !important;
+}
+.widget header {
+    background: rgba(70,72,77,0.70) !important;
+}
+.widget .filtre-conteneur .input-wrapper .as-input {
+    background-color: transparent !important;
+}
+.input-wrapper .as-input.ocb_cont > div:first-child {
+    color: white !important;
+}
+.PetitEspaceDroit {
+    color: white !important;
+}
+.widget .content-container > div[id^=id_] {
+    background-color: rgba(70,72,77,0.70) !important;
+}
+.conteneur-liste-CDT .titre-matiere {
+    color: white !important;
+}
+.widget.taf .content-container > div[id^="id_"] .liste-nested > li .wrap .as-content > *, .widget.travailafaire .content-container > div[id^="id_"] .liste-nested > li .wrap .as-content > *, .widget.travailafaireprimaire .content-container > div[id^="id_"] .liste-nested > li .wrap .as-content > *, .widget.activite .content-container > div[id^="id_"] .liste-nested > li .wrap .as-content > *, .widget.evenementsrappel .content-container > div[id^="id_"] .liste-nested > li .wrap .as-content > * {
+    color: white !important;
+}
+.EspaceIndex .switch.test-design.colored-label input + span + span, .EspaceIndex .iecb.colored-label input + span + span {
+    color: white !important;
+}
+.widget.taf .content-container > div[id^="id_"] .liste-nested > li h5 .est-fait, .widget.taf .content-container > div[id^="id_"] .liste-nested > li span.est-fait, .widget.travailafaire .content-container > div[id^="id_"] .liste-nested > li h5 .est-fait, .widget.travailafaire .content-container > div[id^="id_"] .liste-nested > li span.est-fait, .widget.travailafaireprimaire .content-container > div[id^="id_"] .liste-nested > li h5 .est-fait, .widget.travailafaireprimaire .content-container > div[id^="id_"] .liste-nested > li span.est-fait, .widget.tafetactivites .content-container > div[id^="id_"] .liste-nested > li h5 .est-fait, .widget.tafetactivites .content-container > div[id^="id_"] .liste-nested > li span.est-fait, .widget.activite .content-container > div[id^="id_"] .liste-nested > li h5 .est-fait, .widget.activite .content-container > div[id^="id_"] .liste-nested > li span.est-fait, .widget.actualites .content-container > div[id^="id_"] .liste-nested > li h5 .est-fait, .widget.actualites .content-container > div[id^="id_"] .liste-nested > li span.est-fait, .widget.evenementsrappel .content-container > div[id^="id_"] .liste-nested > li h5 .est-fait, .widget.evenementsrappel .content-container > div[id^="id_"] .liste-nested > li span.est-fait {
+    color: white !important;
+}
+.widget .content-container > div[id^=id_] h4 {
+    color: WHITE !important;
+}
+.widget .content-container > div[id^=id_] ul > li .file-name, .widget .content-container > div[id^=id_] ul > li .date {
+    color: white !important;
+}
+.widget .as-footer {
+    background-color: rgba(0,0,0,0.5) !important;
+}
+.widget .content-container > div[id^=id_] .liste-clickable li {
+    color: white !important;
+}
+.widget.menudelacantine .content-container > div[id^="id_"] ul .conteneur-aliments {
+    color: white !important;
+}
+.widget .content-container > div[id^=id_] .legende span {
+    color: white !important;
+}
+.EspaceIndex #div > .interface_affV.no-footer {
+    background-color: #46484d !important;
+}
+.widget.menudelacantine.theme-cat-communication .content-container::after {
+    color: rgba(22, 163, 22,0.15) !important;
+}
+.widget.discussions.theme-cat-communication .content-container::after {
+    color: rgba(22, 163, 22,0.15) !important;
+}
+.widget.actualites.theme-cat-communication .content-container::after {
+    color: rgba(22, 163, 22,0.15) !important;
+}
+.widget.agenda.theme-cat-communication .content-container::after {
+    color: rgba(22, 163, 22,0.15) !important;
+}
+.widget.competences.theme-cat-resultat .content-container::after {
+    color: rgba(245, 163, 57, 0.15) !important;
+}
+.widget.notes.theme-cat-resultat .content-container::after {
+    color: rgba(245, 163, 57, 0.15) !important;
+}
+.widget.viescolaire.theme-cat-viescolaire .content-container::after {
+    color: rgba(23, 195, 218, 0.15) !important;
+}
+.widget.viescolaire.theme-cat-viescolaire .content-container::after {
+    color: rgba(11, 148, 228, 0.15) !important;
+}
+.widget.ressourcepedagogique.theme-cat-pedagogie .content-container::after {
+    color: rgba(var(--theme-moyen1-rgb), 0.15) !important;
+}
+.widget.travailafaire.theme-cat-pedagogie .content-container::after {
+    color: rgba(var(--theme-moyen1-rgb), 0.15) !important;
+}
+.widget.ds.theme-cat-pedagogie .content-container::after {
+    color: rgba(var(--theme-moyen1-rgb), 0.15) !important;
+}
+.widget.edt.theme-cat-edt .content-container::after {
+    color: rgba(var(--theme-moyen1-rgb), 0.08) !important;
+}
+.widget.travailafaire.theme-cat-pedagogie .content-container > div[id^=id_] h4 {
+    background-color: var(--theme-foncee-scalePlus60) !important;
+}
+.input-wrapper.ObjetSaisie .as-input.as-select {
+    background-color: #76787d !important;
+}
+.deroulant-conteneur-show-hide {
+    background: #999999 !important;
+}
+.MessageInformatif {
+    background-color: #46484d !important;
+}
+.input-wrapper .as-input.ocb_cont {
+    background-color: #46484d !important;
+}
+.conteneur-CDT .conteneur-droite > * {
+    background-color: #46484d;
+}
+.conteneur-CDT .conteneur-droite {
+    background-color: #46484d !important;
+}
+.conteneur-liste-CDT .description, .conteneur-liste-CDT .descriptif {
+    color: white;
+}
+.ie-titre {
+    color: white !important;
+}
+.ie-titre-petit {
+    color: #a7a9b1 !important;
+}
+.conteneur-liste-CDT .programme {
+    color: white !important;
+}
+.ie-sous-titre {
+    color: #a7a9b1 !important;
+}
+.ieBouton.test-design:not(.bouton-carre):not(.themeBoutonConnexion):not(.themeTabBar).themeBoutonNeutre, .ieBouton.test-design:not(.bouton-carre):not(.themeBoutonConnexion):not(.themeTabBar).has-dots {
+    color: white !important;
+}
+.ObjetListe .liste_celluleGrid {
+    background-color: #46484d !important;
+}
+.BlocDevoirEvaluation {
+    background-color: #46484d !important;
+}
+div#div {
+    background-color: #46484d !important;
+}
+.Texte14 {
+    color: white !important;
+}
+.Souligne {
+    color: white !important;
+}
+html, .Texte, .Texte5, .Texte6, .Texte7, .Texte8, .Texte9, .Texte10, .Texte11, .Texte12, .Texte13, .Texte14, .Texte16, .Texte18, .Texte20, .Texte24, .Titre, .TitreSansTaille, .Titre11Ombre {
+    color: white !important;
+}
+.Texte10 {
+    background-color: black !important;
+}
+.ObjetFenetre_Espace .Fenetre_Cadre {
+    background-color: black !important;
+}
+.ObjetFenetre_Espace .Fenetre_Cadre .content {
+    background-color: black !important;
+}
+.Timeline .MargeGaucheBloc {
+    background-color: #46484d !important;
+}
+.ObjetMenuContexutel ul li.active-color {
+    background-color: #46484d !important;
+}
